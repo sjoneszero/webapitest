@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d65a98e5-24e0-49df-b503-19270a144e55": {
+      "ProjectGuid": "d65a98e5-24e0-49df-b503-19270a144e55",
+      "DisplayName": "CoraWebAPITest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

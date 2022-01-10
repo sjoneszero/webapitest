@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoraWebAPITest", "CoraWebAPITest\CoraWebAPITest.csproj", "{D65A98E5-24E0-49DF-B503-19270A144E55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25C375BC-DB0E-4984-908D-43D9B22CBE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65A98E5-24E0-49DF-B503-19270A144E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65A98E5-24E0-49DF-B503-19270A144E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65A98E5-24E0-49DF-B503-19270A144E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65A98E5-24E0-49DF-B503-19270A144E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77E8F43D-5DDA-4085-A6E6-C1B42C6074BB}
+	EndGlobalSection
+EndGlobal
