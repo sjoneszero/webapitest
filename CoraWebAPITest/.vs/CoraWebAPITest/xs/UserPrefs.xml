@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D65A98E5-24E0-49DF-B503-19270A144E55}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cora_query.sql">
+    <Files>
+      <File FileName="CoraWebAPITest/Controllers/ProjectController.cs" Line="9" Column="14" />
+      <File FileName="CoraWebAPITest/Services/ProjectValidator.cs" Line="14" Column="67" />
+      <File FileName="CoraWebAPITest/Services/IProjectValidator.cs" Line="8" Column="39" />
+      <File FileName="CoraWebAPITest/TimezoneLookup.cs" Line="1" Column="1" />
+      <File FileName="CoraWebAPITest/Data/IRepository.cs" Line="1" Column="1" />
+      <File FileName="CoraWebAPITest/README.txt" Line="1" Column="1" />
+      <File FileName="CoraWebAPITest/Startup.cs" Line="43" Column="79" />
+      <File FileName="CoraWebAPITest/DTO/Project.cs" Line="1" Column="1" />
+      <File FileName="cora_query.sql" Line="1" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoraWebAPITest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoraWebAPITest PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

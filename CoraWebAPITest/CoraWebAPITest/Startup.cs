@@ -1,3 +1,4 @@
+using CoraWebAPITest.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -39,6 +40,7 @@ namespace CoraWebAPITest
 
             services.AddSingleton<IDictionary<int, DTO.Project>>(projects);
             services.AddSingleton<ITimezoneLookup>(new TimezoneLookup());
+            services.AddSingleton<IProjectValidator>(new ProjectValidator()); 
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
